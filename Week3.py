@@ -1,6 +1,6 @@
 # 1. 주어진 문자열 'Hello, World!'에서 첫 번째 단어 'Hello'만 추출하는 파이썬 코드를 작성하세요.
 
-string='Hello,world!'
+string='Hello, world!'
 print(string[0:5])
 
 # 2. 정수 7과 정수 3의 덧셈 값을 제곱하고, 이를 result 변수에 할당하는 파이썬 코드를 작성하세요.
