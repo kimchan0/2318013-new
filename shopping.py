@@ -4,9 +4,9 @@
 
 class Product:
     def __init__(self, name, price, quantity):
-        self.name = name
-        self.price = price
-        self.quantity = quantity
+        self.name = name # 상품 이름
+        self.price = price # 상품 가격
+        self.quantity = quantity # 상품 재고
     # 재고 수량을 업데이트
     def update_quantity(self, amount):
         self.quantity += amount
